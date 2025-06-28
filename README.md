@@ -37,8 +37,8 @@ All steps were implemented within a single Jupyter Notebook:
 
 ## 📊 Results Summary
 
-- **Kaggle Competition Rank:** 3rd place  
-- **Final Score:** 2.73 (lower is better)  
+- **Kaggle Competition Rank:** 3rd place (18 participants) 
+- **Final Score:** 2.73
 - **Key Takeaways:**
   - Lagged rolling statistics significantly improved short-term forecast accuracy
   - Ensemble methods reduced overall error by approximately 10% compared to individual models
