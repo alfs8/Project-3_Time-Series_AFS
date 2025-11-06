@@ -42,7 +42,6 @@ All steps were implemented within a single Jupyter Notebook:
 - **Key Takeaways:**
   - Lagged rolling statistics significantly improved short-term forecast accuracy
   - Ensemble methods reduced overall error by approximately 10% compared to individual models
-  - Feature importance analysis highlighted **[insert top features]** as critical predictors
 
 ## 📄 Repository Contents
 
